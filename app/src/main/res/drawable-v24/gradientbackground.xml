@@ -4,5 +4,4 @@
         android:startColor="@color/startblue"
         android:endColor="@color/endblue"
         />
-
 </shape>
